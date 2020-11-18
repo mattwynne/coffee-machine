@@ -9,7 +9,7 @@ Imagine we have built a coffee machine for our office, with automated tests usin
 To prepare:
 
 1. Fork this repo to your own GitHub account
-2. Open the [Coffee Machine project](https://studio.cucumber.io/cucumber-projects/230753) in CucumberStudio
+2. Create a _BDD with Cucumber_ project in CucumberStudio called **Coffee Machine**
 
 During the user testing session:
 
